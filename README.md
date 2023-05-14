@@ -7,7 +7,7 @@
 <img src="https://github.com/lty2002/my-code-for-ios/blob/main/02.png?raw=true" style="zoom:25%;" />
 
 ## 使用指南
-1. 使用Safari访问[快捷指令](https://www.icloud.com/shortcuts/6030b7fabd274e2c9e5eeeaf87a6682a)，获取捷径
+1. 使用Safari访问[快捷指令](https://www.icloud.com/shortcuts/5f996783f94a42949a482f19369d7c8d)，获取捷径
 
 2. 编辑该快捷指令，输入自己在门禁系统的userid和card，运行即可得到二维码
     <img src="https://github.com/lty2002/my-code-for-ios/blob/main/01.png?raw=true" style="zoom: 25%;" />
